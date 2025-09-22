@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about system design.
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/Bay0u](https://github.com/Bay0u) the other projects are at companie's gitlab.
+- 👨‍💻 All of my personal projects are available at [https://github.com/Bay0u](https://github.com/Bay0u) the other projects are at Sumerge's gitlab.
 
 - 💬 Ask me about **java, angular, spring, quarkus, kafka, microservices, sql, kubernetes, jenkins, openshift, js, html, css, c# and python**
 
