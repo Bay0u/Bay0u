@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bay0u" alt="bay0u" /></a> </p>
 
-- 🌱 I’m currently learning **angular & spring**
+- 🌱 I’m currently learning about system design.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bay0u](https://github.com/Bay0u)
+- 👨‍💻 All of my personal projects are available at [https://github.com/Bay0u](https://github.com/Bay0u) the other projects are at companie's gitlab.
 
-- 💬 Ask me about **java, js, html, css, c# and python**
+- 💬 Ask me about **java, angular, spring, quarkus, kafka, microservices, sql, kubernetes, jenkins, openshift, js, html, css, c# and python**
 
 - 📫 How to reach me **a.bayoumimahmoud@gmail.com**
 
